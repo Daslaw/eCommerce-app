@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was By Daslaw
+This project was created by Daslaw
 
 https://daslaw.github.io/eCommerce-app
 
