@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# eCommerce Website with React
 
 This project was created by Daslaw
 
